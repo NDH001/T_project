@@ -9,6 +9,7 @@ A project that predicts customer churn rate based on the [Telco Customer Churn](
 ## Table of Contents
 - [Background](#Background)
 - [Install](#Install)
+- [Report](#Report)
 
 ## Background
 The objective of this project is to predict the possibility of churning of a customer given       one's details such as gender,seniority,subscription type etc. 
@@ -22,4 +23,7 @@ This project uses [python3](https://www.python.org/downloads/) and all other rel
 ```
 pip install -r requirement.txt
 ```
+## Report
+For full report which includes the details on the EDA analysis,model design and final comparison, please refer to the report pdf.
+
 
