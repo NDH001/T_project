@@ -10,29 +10,16 @@ A project that predicts customer churn rate based on the [Telco Customer Churn](
 - [Background](#Background)
 - [Install](#Install)
 
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-- [Background](#Background)
-- [Install](#Install)
-
 ## Background
+The objective of this project is to predict the possibility of churning of a customer given       one's details such as gender,seniority,subscription type etc. 
+
+The process is streamline and standardized where EDA is first performed to clean and analyse the dataset followed by deeplearning techniques such as MLP,random forest and finally logistic regression. 
+
+Which eventually we can compare the results and draws conclusion on the training and techniques.
+
+## Install
+This project uses [python3](https://www.python.org/downloads/) and all other related dependencies can be install by installing the requirements.txt file.
+```
+pip install -r requirement.txt
+```
+
