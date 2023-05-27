@@ -111,7 +111,7 @@ def main(path, epochs=30, l_r=0.001, splits=5, report=False):
 
 if __name__ == "__main__":
     main(
-        r"WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        r"etc\WA_Fn-UseC_-Telco-Customer-Churn.csv",
         30,
         0.001,
         5,
